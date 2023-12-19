@@ -1,0 +1,139 @@
+.service2{
+font-size: 8vh;
+    color: gray;
+    opacity: 30%;
+    font-family: sans-serif;
+}
+.Contactus{
+    font-size: 35px;
+    color: black;
+    /* float: inherit; */
+    padding-top: 1px;
+    font-weight: 600;
+    margin-left: 30%;
+    font-family: sans-serif;
+}
+.clients-section2{
+    display: grid;
+    grid-template-rows:10px 70px;
+    
+  column-gap: 270px;
+  row-gap: 10px;
+  margin-left: 7%;
+  margin-bottom: 120px;
+  position: absolute;
+  margin-top: -370px;
+
+}
+.support{
+    color: black;
+    /* padding-top:7%; */
+    font-weight: bold;
+}
+.address{
+    list-style:none;
+    margin-left: -10%;
+    color: gray;
+    font-size: 18px;
+    justify-content: left;
+
+}
+.phone{
+    list-style:none;
+    margin-left: -1%;
+    color: gray;
+    margin-top: 2%;
+}
+.number{
+    
+        list-style:none;
+        margin-left: -12%;
+        color: gray;
+
+    }
+    .Email{
+        list-style:none;
+    margin-left: 0%;
+    color: gray;
+    margin-top: 2%;
+
+    }
+    .id{
+        list-style:none;
+        margin-left: -10%;
+        color: gray;
+    }
+    .details{
+        /* margin-left: 80%; */
+        left: 130%;    
+        top:0%;
+        position: absolute;
+        right: 38%;
+    }
+     /* .contact-detail{
+        display: flex;
+                margin-left: 60%;
+                position: absolute; */
+
+     /* }  */
+     .name-phone{ 
+         width: 920%;
+        display:grid;
+        grid-template-columns: 420px 420px;
+        column-gap: 20px; 
+        
+        
+
+        
+    }
+    .company-email{
+        margin-top: 50px;
+        display:grid;
+        grid-template-columns: 420px 420px;
+        column-gap: 20px;
+    }
+.feedback{
+    margin-top: 90px;
+    display:grid;
+    grid-template-columns: 860px;
+  
+    
+   
+}
+.my-4{
+    background-color: #222222;
+    
+}
+.my-4:hover{
+    background-color: #478ABA;
+   
+}
+.contact-detail{
+
+position: absolute;
+top:700%;
+left:18%;
+/* margin-left: 15%; */
+} 
+.no-outline{
+
+    border: 0;
+    /* mask-border-slice:inherit; */
+}
+
+.outline{
+    border: none;
+        outline: none;
+        border-bottom: 1px solid #ccc;
+        
+    
+}
+/* .clients-section2{
+    margin-top: 180%;
+} */
+.contact-detail{
+    margin-top: -30%;
+} 
+.clients-section2{
+    margin-top: -15%;
+}

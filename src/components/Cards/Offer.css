@@ -1,0 +1,115 @@
+.head1{
+    text-align: center;
+    justify-content: center;
+    font-size: 30px;
+    color: solid black;
+    font-weight: bolder;
+    /* text-decoration: underline;
+    text-decoration-color:#FFF1F1; */
+    /* margin-top: 0%; */
+         /* padding-bottom: 3%;  */
+         margin-top: 5%;
+    text-decoration: underline;
+    text-decoration-color:#F8C01B ;
+    text-align: center;
+    text-underline-offset:13px;
+    text-decoration-thickness:2px;
+
+}
+
+.head2{
+text-align: center;
+margin-top: 2%;
+font-weight: 400;
+}
+.services{
+    display: grid;
+    grid-template-columns: 100px 100px 100px 100px;
+  /* grid-template-rows: 40px auto 40px;  */
+
+  
+  column-gap: 270px;
+  row-gap: 10px;
+  margin-top: 35%;
+  margin-left: 15%;
+
+  
+  
+}
+
+.single_service-heading{
+  margin-left: 40%;
+  font-weight: bolder;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin-top: 38px;
+  position: absolute;
+}
+.icon{
+  /* margin-top: 30px;
+  width: 20px;
+  height: 12vh; */
+margin-top: 20px;
+padding-top: 5%;
+position: absolute;
+/* box-sizing: border-box; */
+border: solid black 1px;
+height: 8vh;
+width: 30%;
+/* margin: auto;   */
+align-items: center;
+margin: 12px;
+padding-left: 6%; 
+
+}
+ .single_service-heading:hover{
+  color: #478ABA;
+}
+.icon:hover{
+  color: #478ABA;
+} 
+ .icon:hover{
+  color: #478ABA;
+border: solid #478ABA 1px;
+}
+.contain:hover{
+  color: #478ABA;
+
+} 
+.fa-mobile{
+  margin: 13%;
+ 
+}
+.fa-smile{
+  margin: 11%;
+  
+}
+.fa-file-invoice-dollar{
+  margin: 11%;
+}
+.fa-newspaper{
+  margin: 10%;
+}
+.fa-bullhorn{
+  margin:11%;
+}
+
+
+@media only screen and (max-width : 600px) {
+  .services{
+  margin-top: 120%;
+} */
+.head1{
+  margin-top: 30%;
+} 
+  .our-services{
+    margin-top: 10%;
+  }
+  .services{
+  display: block;
+  position: absolute;
+  top:320%;
+  margin-left: 25%;
+  }
+}

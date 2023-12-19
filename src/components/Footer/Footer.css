@@ -1,0 +1,102 @@
+.head5{
+    color: #AB1313;
+    font-weight: bold;
+    font-family: sans-serif;
+    margin-top: 37%;
+    text-decoration: none;
+
+}
+.list-unstyled{
+    /* margin-top: 30%; */
+display: grid;    
+grid-gap:20px;
+font-size: 17px;
+
+}
+.fa-solid{
+    margin-right: 5%;
+    color: #AB1313;
+}
+.copyright{
+    box-sizing: border-box;
+    border-top: solid black 1px;
+    margin-top: 5%;
+    justify-content: center;
+    text-align: center;
+    color: gray;
+    /* margin-top:-2% */
+}
+/* .footer{
+    position: absolute;
+    top:600%
+} */
+.list-unstyled li:hover{
+cursor: pointer;
+color:#478ABA;
+}
+.policy{
+    list-style-type: none;
+    color: black;
+    display: flex;
+    column-gap: 5%;
+    font-size: 20px;
+    margin-top: 1%;
+}
+.terms:hover{
+    cursor: pointer;
+color:#478ABA;
+
+}
+.privacy:hover{
+    cursor: pointer;
+    color:#478ABA;
+}
+.list-unstyled1{
+    display: grid;    
+grid-gap:20px;
+font-size: 17px;
+list-style-type: none;
+}
+.list-unstyled2{
+    display: grid;    
+grid-gap:20px;
+font-size: 17px;
+list-style-type: none;
+margin-top: -19%;
+}
+.end-foot{
+    margin-top: 1%;
+}
+.list-unstyled1 li:hover{
+    cursor: pointer;
+    color:#478ABA;
+}
+.list-unstyled2 li:hover{
+    cursor: pointer;
+    color:#478ABA;
+}
+.list-unstyled3{
+    display: grid;    
+grid-gap:20px;
+font-size: 17px;
+list-style-type: none;
+margin-top: -19%;
+}
+.list-unstyled3 li:hover{
+    cursor: pointer;
+    color:#478ABA;
+}
+.head6{
+    color: #AB1313;
+    font-weight: bold;
+    font-family: sans-serif;
+    margin-top: 17%;
+    list-style-type: none;
+    font-size: medium;
+}
+.footer{
+    margin-top: 25%;
+    padding: 0;
+    /* margin:0; */
+    
+}

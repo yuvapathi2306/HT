@@ -1,0 +1,27 @@
+.Overall-Content3{
+    /* margin-bottom: 70px; */
+    position: absolute;
+    top:500%;
+/* margin-top: -9%; */
+display: flex;
+margin-left: 15%;
+}
+.Feature3{
+
+    margin-top: 20px;
+    margin-left: 220px;
+    justify-content: center;
+    /* text-align: center; */
+    
+    /* box-sizing: border-box;
+    border-color: solid black 2px;
+    border-style: dashed; */
+    width: 900px;
+    height: 50vh;
+    margin-top: 50px;
+    padding-right: 170px;
+    position: relative;
+    }
+    /* .Overall-Content3{
+        margin-top: 300%;
+    } */

@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,43 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+.Home, .News, .contactus, .Whatwedo, .Whoweare, .notfound{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 3rem;
+  height: 70vh;
+
+
 }
+.Whoweare{display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 3rem;
+  height: 70vh;
+
+}
+
+.footer{
+  background-color: #FFF1F1;
+  background-size: contain;
+  margin-top: 80%;
+  color: black;
+  height: 90vh;
+  
+}
+ h5{
+  color: rgb(0, 110, 255);
+
+
+}
+ul{
+  /* padding-top: 25vh; */
+}
+ul h5{
+  margin-top: 50px;
+
+}
+

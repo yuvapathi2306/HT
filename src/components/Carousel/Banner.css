@@ -1,0 +1,26 @@
+.carousel-item img {
+    max-height: 600px; /* Adjust the value according to your needs */
+    object-fit: cover; /* Maintain aspect ratio while covering the container */
+  }
+  h3{
+    color:#f58e07;
+    font-size: 70px;
+  }
+  p{
+    color: #2F2B3F;
+    font-size: xx-large;
+  }
+  h4{
+    color: solid black;
+  }
+  /* @media only screen and (max-width : 600px) {
+    .display-5{
+      margin-top: 50%;
+    }
+           }   */
+/*            
+.text-center{
+margin-top: 40%;} */
+
+
+ 

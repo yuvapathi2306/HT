@@ -1,0 +1,28 @@
+.Overall-Content4{
+    position: absolute;
+    top:570%;
+    display: flex;
+    margin-left: 5%;
+}
+.Feature4{
+    margin-bottom: 20%;
+    
+    padding-left: 150px;
+    /* justify-content: center; */
+    /* text-align: center; */
+    
+    /* box-sizing: border-box;
+    border-color: solid black 2px;
+    border-style: dashed;  */
+
+    width: 900px;
+    height: 50vh;  
+    /* margin-top: 1%; */
+    /* padding-right: 0px; */
+    /* margin-left: 90px; */
+    position: relative;
+    
+}
+/* .Overall-Content4{
+    margin-top: 150%;
+} */
